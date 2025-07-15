@@ -1,4 +1,4 @@
-# Web3CopyrightOrg
+# Web3 Copyright Org
 
 A decentralized copyright inscription and verification system based on Polygon, IPFS, and smart contracts.  
 Powered by Rust, Solidity, and Web3 standards.
